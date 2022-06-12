@@ -95,7 +95,4 @@ Error: No this action!
 
 Write action (remaining, buy, fill, take, exit):
 > exit
-
-
-Process finished with exit code 0
 ```
